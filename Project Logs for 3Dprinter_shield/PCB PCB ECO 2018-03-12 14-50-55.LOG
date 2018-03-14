@@ -1,0 +1,65 @@
+Added Component: Designator=P16(MOLEX_2204_1021)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P17(MOLEX_2204_1021)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P18(MOLEX_2204_1021)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=X-MAX Pin=P16-1
+Added Pin To Net: NetName=GND Pin=P16-2
+Added Pin To Net: NetName=Y-MAX Pin=P17-1
+Added Pin To Net: NetName=GND Pin=P17-2
+Added Pin To Net: NetName=Z-MAX Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P18-2
+Added Pin To Net: NetName=+3V3 Pin=R22-1
+Added Pin To Net: NetName=X-MAX Pin=R22-2
+Added Pin To Net: NetName=+3V3 Pin=R23-1
+Added Pin To Net: NetName=Y-MAX Pin=R23-2
+Added Pin To Net: NetName=+3V3 Pin=R24-1
+Added Pin To Net: NetName=Z-MAX Pin=R24-2
+Added Pin To Net: NetName=+3V3 Pin=U1-11
+Added Pin To Net: NetName=+3V3 Pin=U1-12
+Added Pin To Net: NetName=+3V3 Pin=U1-18
+Added Pin To Net: NetName=+3V3 Pin=U2-11
+Added Pin To Net: NetName=+3V3 Pin=U2-12
+Added Pin To Net: NetName=+3V3 Pin=U2-18
+Added Pin To Net: NetName=+3V3 Pin=U3-11
+Added Pin To Net: NetName=+3V3 Pin=U3-12
+Added Pin To Net: NetName=+3V3 Pin=U3-18
+Added Pin To Net: NetName=+3V3 Pin=U4-11
+Added Pin To Net: NetName=+3V3 Pin=U4-12
+Added Pin To Net: NetName=+3V3 Pin=U4-18
+Added Member To Class: ClassName=Connector Member=Component P16 MOLEX_1X2_HEADER
+Added Member To Class: ClassName=Connector Member=Component P17 MOLEX_1X2_HEADER
+Added Member To Class: ClassName=Connector Member=Component P18 MOLEX_1X2_HEADER
+Added Member To Class: ClassName=Connector Member=Component R22 
+Added Member To Class: ClassName=Connector Member=Component R23 
+Added Member To Class: ClassName=Connector Member=Component R24 
+Added Room: Name=Connector
+Added Room: Name=Driver

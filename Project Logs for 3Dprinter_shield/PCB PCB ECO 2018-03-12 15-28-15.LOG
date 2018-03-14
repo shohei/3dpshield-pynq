@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=POWER Member=GND
+Removed Member From Class: ClassName=POWER Member=HEAT1
+Change Class Name : Old Net Name=POWER New Net Name=Stepper
+Added Class: Name=Power

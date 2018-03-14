@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [3Dprinter_shield.PrjPcb]
+   Generated File[PCB.TXT]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:44:52 On 2018/03/14
