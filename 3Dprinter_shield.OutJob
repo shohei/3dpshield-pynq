@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield\.PDF
+OutputFilePath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield\
+OutputBasePath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield\.PDF
+RelativeOutputPath2=C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

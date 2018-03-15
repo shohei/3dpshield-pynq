@@ -2,8 +2,6 @@ Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [3Dprinter_shield.PrjPcb]
    Generated File[PCB.GTL]
-   Generated File[PCB.G1]
-   Generated File[PCB.GP1]
    Generated File[PCB.GBL]
    Generated File[PCB.GTO]
    Generated File[PCB.GTS]
@@ -14,7 +12,7 @@ From  : Variant [[No Variations]] of Project [3Dprinter_shield.PrjPcb]
    Generated File[PCB.REP]
 
 
-Files Generated   : 11
+Files Generated   : 9
 Documents Printed : 0
 
-Finished Output Generation At 17:55:26 On 2018/03/14
+Finished Output Generation At 17:50:06 On 2018/03/15

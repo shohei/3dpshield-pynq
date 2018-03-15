@@ -1,0 +1,39 @@
+Remove Pin=P12-1 From Net=X8-1
+Remove Pin=P12-2 From Net=X8-2
+Remove Pin=P12-3 From Net=X8-3
+Remove Pin=P12-4 From Net=X8-4
+Remove Pin=P13-1 From Net=Y8-1
+Remove Pin=P13-2 From Net=Y8-2
+Remove Pin=P13-3 From Net=Y8-3
+Remove Pin=P13-4 From Net=Y8-4
+Remove Pin=P15-1 From Net=E8-1
+Remove Pin=P15-2 From Net=E8-2
+Remove Pin=P15-3 From Net=E8-3
+Remove Pin=P15-4 From Net=E8-4
+Remove Pin=U1-1 From Net=X8-1
+Remove Pin=U1-11 From Net=X-MS1
+Remove Pin=U1-12 From Net=X-MS2
+Remove Pin=U1-24 From Net=X8-4
+Remove Pin=U1-27 From Net=X8-3
+Remove Pin=U1-30 From Net=X8-2
+Remove Pin=U2-1 From Net=Y8-1
+Remove Pin=U2-11 From Net=Y-MS1
+Remove Pin=U2-12 From Net=Y-MS2
+Remove Pin=U2-24 From Net=Y8-4
+Remove Pin=U2-27 From Net=Y8-3
+Remove Pin=U2-30 From Net=Y8-2
+Remove Pin=U4-1 From Net=E8-1
+Remove Pin=U4-11 From Net=E-MS1
+Remove Pin=U4-12 From Net=E-MS2
+Remove Pin=U4-24 From Net=E8-4
+Remove Pin=U4-27 From Net=E8-3
+Remove Pin=U4-30 From Net=E8-2
+Change Component Comment: Designator=P12 Old Comment=B4B-XH-A(LF)(SN) New Comment=XH_CONNECTOR_1X4
+Change Component Comment: Designator=P13 Old Comment=B4B-XH-A(LF)(SN) New Comment=XH_CONNECTOR_1X4
+Change Component Comment: Designator=P14 Old Comment=B4B-XH-A(LF)(SN) New Comment=XH_CONNECTOR_1X4
+Change Component Comment: Designator=P11 Old Comment=MOLEX 2204-1021 New Comment=MOLEX_1X2_HEADER
+Change Component Comment: Designator=P16 Old Comment=MOLEX 2204-1021 New Comment=MOLEX_1X2_HEADER
+Change Component Comment: Designator=P17 Old Comment=MOLEX 2204-1021 New Comment=MOLEX_1X2_HEADER
+Change Component Comment: Designator=P18 Old Comment=MOLEX 2204-1021 New Comment=MOLEX_1X2_HEADER
+Change Component Comment: Designator=P9 Old Comment=OSTTC02-0162 New Comment=TERMINAL_BLOCK_1X2
+Change Component Comment: Designator=P10 Old Comment=OSTTC02-0162 New Comment=TERMINAL_BLOCK_1X2

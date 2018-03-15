@@ -1,0 +1,21 @@
+Added Component: Designator=P12(B4B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P14(B4B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P15(B4B-XH-A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=X8-1 Pin=P12-1
+Added Pin To Net: NetName=X8-2 Pin=P12-2
+Added Pin To Net: NetName=X8-3 Pin=P12-3
+Added Pin To Net: NetName=X8-4 Pin=P12-4
+Added Pin To Net: NetName=Z8-1 Pin=P14-1
+Added Pin To Net: NetName=Z8-2 Pin=P14-2
+Added Pin To Net: NetName=Z8-3 Pin=P14-3
+Added Pin To Net: NetName=Z8-4 Pin=P14-4
+Added Pin To Net: NetName=E8-1 Pin=P15-1
+Added Pin To Net: NetName=E8-2 Pin=P15-2
+Added Pin To Net: NetName=E8-3 Pin=P15-3
+Added Pin To Net: NetName=E8-4 Pin=P15-4
+Added Member To Class: ClassName=Connector Member=Component P12 XH_CONNECTOR_1X4
+Added Member To Class: ClassName=Connector Member=Component P14 XH_CONNECTOR_1X4
+Added Member To Class: ClassName=Connector Member=Component P15 XH_CONNECTOR_1X4
