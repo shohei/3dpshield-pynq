@@ -7,12 +7,13 @@ From  : Variant [[No Variations]] of Project [3Dprinter_shield.PrjPcb]
    Generated File[PCB.GTS]
    Generated File[PCB.GBS]
    Generated File[PCB.GBO]
+   Generated File[PCB.GM1]
    Generated File[PCB.RUL]
    Generated File[PCB.EXTREP]
    Generated File[PCB.REP]
 
 
-Files Generated   : 9
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 17:50:06 On 2018/03/15
+Finished Output Generation At 1:55:12 PM On 3/16/2018
