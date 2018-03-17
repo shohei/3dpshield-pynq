@@ -1,18 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [3Dprinter_shield.PrjPcb]
-   Generated File[PCB.GTL]
-   Generated File[PCB.GBL]
-   Generated File[PCB.GTO]
-   Generated File[PCB.GTS]
-   Generated File[PCB.GBS]
-   Generated File[PCB.GM1]
-   Generated File[PCB.RUL]
-   Generated File[PCB.EXTREP]
-   Generated File[PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [3Dprinter_shield.PrjPcb]
+   Generated File[PCB-Plated.TXT]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
 
 
-Files Generated   : 9
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 3:48:48 PM On 3/17/2018
+Finished Output Generation At 4:34:50 PM On 3/17/2018

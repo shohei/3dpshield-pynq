@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=Power Member=HEAT1
-Removed Member From Class: ClassName=Power Member=HEAT2
-Change Net Name : Old Net Name=HEAT1 New Net Name=+12V
-Change Net Name : Old Net Name=HEAT2 New Net Name=NetP9_2
-Added Member To Class: ClassName=Power Member=Wire +12V
