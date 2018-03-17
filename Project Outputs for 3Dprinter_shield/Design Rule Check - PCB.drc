@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\PCB.PcbDoc
 Date     : 3/17/2018
-Time     : 4:30:18 PM
+Time     : 9:25:22 PM
 
-Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,13 +15,13 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=24mil) (Preferred=24mil) (InNetClass('Power'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=10mil) (Max=24mil) (Preferred=24mil) (InNetClass('Stepper'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=24mil) (Preferred=24mil) (InNetClass('Power'))
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:03
