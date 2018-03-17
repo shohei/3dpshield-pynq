@@ -1,2 +1,2 @@
 Layer Pairs Export File for PCB: C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\PCB.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb.txt|DrillLayers=gtl,gbl
