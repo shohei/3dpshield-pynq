@@ -1,7 +1,8 @@
 DRC Rules Export File for PCB: C:\Users\shohei\Dropbox\Altium\drivershield\3Dprinter_shield_rev2\PCB.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Width|RuleName=Width_Power_NetClass|Scope=Board|Minimum=10.00
 RuleKind=Width|RuleName=Width_Stepper_NetClass|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_Power_NetClass|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_M1|Scope=Board|Minimum=11.81
