@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Power Member=+12V
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Change Net Name : Old Net Name=+12V New Net Name=+24V
+Added Member To Class: ClassName=Power Member=Wire +24V
+Added Room: Name=Connector
+Added Room: Name=Misc

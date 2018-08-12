@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q6
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1

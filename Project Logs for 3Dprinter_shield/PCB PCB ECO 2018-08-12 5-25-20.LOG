@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P9 Old Footprint=OSTTC02-0162 New Footprint=BP101L-2PN10
+Change Component Comment : Designator=P9 Old Comment=OSTTC02-0162 New Comment=BP101L-2PN10
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Room: Name=Connector
+Added Room: Name=Misc

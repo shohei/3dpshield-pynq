@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Connector Member=Q5
+Removed Member From Class: ClassName=Connector Member=Q6
+Change Component Footprint: Designator=P33 Old Footprint=OSTTC02-0162 New Footprint=MOLEX_2204_1021
+Change Component Footprint: Designator=P34 Old Footprint=OSTTC02-0162 New Footprint=MOLEX_2204_1021
+Change Component Comment : Designator=P33 Old Comment=OSTTC02-0162 New Comment=2204-1021
+Change Component Comment : Designator=P34 Old Comment=OSTTC02-0162 New Comment=2204-1021
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Added Member To Class: ClassName=Connector Member=Component Q2 2SK2232
+Added Member To Class: ClassName=Connector Member=Component Q3 2SK2232
+Added Room: Name=Connector
+Added Room: Name=Misc

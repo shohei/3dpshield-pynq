@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=HTR0 Pin=Q1-1
+Removed Pin From Net: NetName=NetP10_2 Pin=Q1-4
+Removed Pin From Net: NetName=HTR1 Pin=Q2-1
+Removed Pin From Net: NetName=NetP11_2 Pin=Q2-4
+Removed Pin From Net: NetName=FAN0 Pin=Q3-1
+Removed Pin From Net: NetName=NetP33_2 Pin=Q3-4
+Removed Pin From Net: NetName=FAN1 Pin=Q4-1
+Removed Pin From Net: NetName=NetP34_2 Pin=Q4-4
+Removed Member From Class: ClassName=Connector Member=Q5
+Removed Member From Class: ClassName=Connector Member=Q6
+Change Component Footprint: Designator=Q1 Old Footprint=DPAK254P1524X483-3N New Footprint=2SK2232
+Change Component Footprint: Designator=Q2 Old Footprint=DPAK254P1524X483-3N New Footprint=2SK2232
+Change Component Footprint: Designator=Q3 Old Footprint=DPAK254P1524X483-3N New Footprint=2SK2232
+Change Component Footprint: Designator=Q4 Old Footprint=DPAK254P1524X483-3N New Footprint=2SK2232
+Added Pin To Net: NetName=NetP10_2 Pin=Q1-D
+Added Pin To Net: NetName=HTR0 Pin=Q1-G
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=NetP11_2 Pin=Q2-D
+Added Pin To Net: NetName=HTR1 Pin=Q2-G
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=NetP33_2 Pin=Q3-D
+Added Pin To Net: NetName=FAN0 Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=NetP34_2 Pin=Q4-D
+Added Pin To Net: NetName=FAN1 Pin=Q4-G
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Member To Class: ClassName=Connector Member=Component Q2 2SK2232
+Added Member To Class: ClassName=Connector Member=Component Q3 2SK2232

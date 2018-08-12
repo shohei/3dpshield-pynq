@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=P33 Old Footprint=Phoenix_8pin New Footprint=PHOENIX_8PIN_MOLEX
+Change Component Footprint: Designator=P32 Old Footprint=Phoenix_10pin New Footprint=PHOENIX_10PIN_MOLEX
+Change Component Comment : Designator=P33 Old Comment=1881503 New Comment=22041081
+Change Component Comment : Designator=P32 Old Comment=1881529 New Comment=22041101
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Added Member To Class: ClassName=Misc Member=Component P9 OSTTC02-0162
+Added Member To Class: ClassName=Connector Member=Component P10 OSTTC02-0162
+Added Member To Class: ClassName=Connector Member=Component P11 OSTTC02-0162
+Added Member To Class: ClassName=Connector Member=Component R? 
+Added Member To Class: ClassName=Connector Member=Component R? 
+Added Room: Name=Connector
+Added Room: Name=Misc

@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=Z-STEP Pin=P1-3
+Removed Pin From Net: NetName=E-STEP Pin=P1-4
+Removed Pin From Net: NetName=X-DIR Pin=P1-5
+Removed Pin From Net: NetName=Y-DIR Pin=P1-6
+Removed Pin From Net: NetName=Z-DIR Pin=P1-7
+Removed Pin From Net: NetName=E-DIR Pin=P1-8
+Removed Pin From Net: NetName=E-EN Pin=P2-1
+Removed Pin From Net: NetName=X-MAX Pin=P2-2
+Removed Pin From Net: NetName=Y-MAX Pin=P2-3
+Removed Pin From Net: NetName=Z-MAX Pin=P2-4
+Change Component Footprint: Designator=C25 Old Footprint=EEE-1HA470XP New Footprint=EEE-1HA101UP
+Change Component Comment : Designator=C25 Old Comment=* New Comment=Cap_alumi_electrolytic
+Change Component Comment : Designator=P8 Old Comment= New Comment=Header 4
+Added Component: Designator=P19(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P20(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P21(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P22(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P23(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P24(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P25(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P26(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P27(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P28(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P29(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P30(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DRV8825)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(DRV8825)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(DRV8825)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(DRV8825)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Z-STEP Pin=P1-5
+Added Pin To Net: NetName=E-STEP Pin=P1-6
+Added Pin To Net: NetName=X-DIR Pin=P1-7
+Added Pin To Net: NetName=Y-DIR Pin=P1-8
+Added Pin To Net: NetName=Z-DIR Pin=P2-1
+Added Pin To Net: NetName=E-DIR Pin=P2-2
+Added Pin To Net: NetName=X-MAX Pin=P2-3
+Added Pin To Net: NetName=Y-MAX Pin=P2-4
+Added Pin To Net: NetName=Z-MAX Pin=P2-5
+Added Pin To Net: NetName=E-EN Pin=P3-4
+Added Pin To Net: NetName=+3V3 Pin=P19-1
+Added Pin To Net: NetName=+3V3 Pin=P20-1
+Added Pin To Net: NetName=+3V3 Pin=P21-1
+Added Pin To Net: NetName=+3V3 Pin=P22-1
+Added Pin To Net: NetName=+3V3 Pin=P23-1
+Added Pin To Net: NetName=+3V3 Pin=P24-1
+Added Pin To Net: NetName=+3V3 Pin=P25-1
+Added Pin To Net: NetName=+3V3 Pin=P26-1
+Added Pin To Net: NetName=+3V3 Pin=P27-1
+Added Pin To Net: NetName=+3V3 Pin=P28-1
+Added Pin To Net: NetName=+3V3 Pin=P29-1
+Added Pin To Net: NetName=+3V3 Pin=P30-1
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=X8-3 Pin=U1-B1
+Added Pin To Net: NetName=X8-4 Pin=U1-B2
+Added Pin To Net: NetName=X-DIR Pin=U1-DIR
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=+3V3 Pin=U1-RESET
+Added Pin To Net: NetName=+3V3 Pin=U1-SLEEP
+Added Pin To Net: NetName=+12V Pin=U1-VMOT
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Y8-3 Pin=U2-B1
+Added Pin To Net: NetName=Y8-4 Pin=U2-B2
+Added Pin To Net: NetName=Y-DIR Pin=U2-DIR
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=+3V3 Pin=U2-RESET
+Added Pin To Net: NetName=+3V3 Pin=U2-SLEEP
+Added Pin To Net: NetName=+12V Pin=U2-VMOT
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=Z8-3 Pin=U3-B1
+Added Pin To Net: NetName=Z8-4 Pin=U3-B2
+Added Pin To Net: NetName=Z-DIR Pin=U3-DIR
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=+3V3 Pin=U3-RESET
+Added Pin To Net: NetName=+3V3 Pin=U3-SLEEP
+Added Pin To Net: NetName=Z-STEP Pin=U3-STEP
+Added Pin To Net: NetName=+12V Pin=U3-VMOT
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Pin To Net: NetName=E8-3 Pin=U4-B1
+Added Pin To Net: NetName=E8-4 Pin=U4-B2
+Added Pin To Net: NetName=E-DIR Pin=U4-DIR
+Added Pin To Net: NetName=E-EN Pin=U4-ENABLE
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=+3V3 Pin=U4-RESET
+Added Pin To Net: NetName=+3V3 Pin=U4-SLEEP
+Added Pin To Net: NetName=E-STEP Pin=U4-STEP
+Added Pin To Net: NetName=+12V Pin=U4-VMOT
+Change Net Name : Old Net Name=CK_A4 New Net Name=HTR-TRG
+Change Net Name : Old Net Name=Vaux13 New Net Name=TH-AIN
+Change Net Name : Old Net Name=X-STEP New Net Name=RX0
+Change Net Name : Old Net Name=Y-STEP New Net Name=TX0
+Added Pin To Net: NetName=E-M0 Pin=P28-2
+Added Pin To Net: NetName=E-M0 Pin=U4-M0
+Added Net: Name=E-M0
+Added Pin To Net: NetName=E-M1 Pin=P29-2
+Added Pin To Net: NetName=E-M1 Pin=U4-M1
+Added Net: Name=E-M1
+Added Pin To Net: NetName=E-M2 Pin=P30-2
+Added Pin To Net: NetName=E-M2 Pin=U4-M2
+Added Net: Name=E-M2
+Added Pin To Net: NetName=RX1 Pin=P4-7
+Added Net: Name=RX1
+Added Pin To Net: NetName=TX1 Pin=P4-8
+Added Net: Name=TX1
+Added Pin To Net: NetName=X-EN Pin=P3-1
+Added Pin To Net: NetName=X-EN Pin=U1-ENABLE
+Added Net: Name=X-EN
+Added Pin To Net: NetName=X-M0 Pin=P19-2
+Added Pin To Net: NetName=X-M0 Pin=U1-M0
+Added Net: Name=X-M0
+Added Pin To Net: NetName=X-M1 Pin=P20-2
+Added Pin To Net: NetName=X-M1 Pin=U1-M1
+Added Net: Name=X-M1
+Added Pin To Net: NetName=X-M2 Pin=P21-2
+Added Pin To Net: NetName=X-M2 Pin=U1-M2
+Added Net: Name=X-M2
+Added Pin To Net: NetName=X-STEP Pin=P1-3
+Added Pin To Net: NetName=X-STEP Pin=U1-STEP
+Added Net: Name=X-STEP
+Added Pin To Net: NetName=Y-EN Pin=P3-2
+Added Pin To Net: NetName=Y-EN Pin=U2-ENABLE
+Added Net: Name=Y-EN
+Added Pin To Net: NetName=Y-M0 Pin=P22-2
+Added Pin To Net: NetName=Y-M0 Pin=U2-M0
+Added Net: Name=Y-M0
+Added Pin To Net: NetName=Y-M1 Pin=P23-2
+Added Pin To Net: NetName=Y-M1 Pin=U2-M1
+Added Net: Name=Y-M1
+Added Pin To Net: NetName=Y-M2 Pin=P24-2
+Added Pin To Net: NetName=Y-M2 Pin=U2-M2
+Added Net: Name=Y-M2
+Added Pin To Net: NetName=Y-STEP Pin=P1-4
+Added Pin To Net: NetName=Y-STEP Pin=U2-STEP
+Added Net: Name=Y-STEP
+Added Pin To Net: NetName=Z-EN Pin=P3-3
+Added Pin To Net: NetName=Z-EN Pin=U3-ENABLE
+Added Net: Name=Z-EN
+Added Pin To Net: NetName=Z-M0 Pin=P25-2
+Added Pin To Net: NetName=Z-M0 Pin=U3-M0
+Added Net: Name=Z-M0
+Added Pin To Net: NetName=Z-M1 Pin=P26-2
+Added Pin To Net: NetName=Z-M1 Pin=U3-M1
+Added Net: Name=Z-M1
+Added Pin To Net: NetName=Z-M2 Pin=P27-2
+Added Pin To Net: NetName=Z-M2 Pin=U3-M2
+Added Net: Name=Z-M2
+Added Member To Class: ClassName=Connector Member=Component P2 
+Added Member To Class: ClassName=Connector Member=Component P13 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Connector Member=Component P14 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Connector Member=Component P19 Header 2
+Added Member To Class: ClassName=Connector Member=Component P20 Header 2
+Added Member To Class: ClassName=Connector Member=Component P21 Header 2
+Added Member To Class: ClassName=Connector Member=Component P22 Header 2
+Added Member To Class: ClassName=Connector Member=Component P23 Header 2
+Added Member To Class: ClassName=Connector Member=Component P24 Header 2
+Added Member To Class: ClassName=Connector Member=Component P25 Header 2
+Added Member To Class: ClassName=Connector Member=Component P26 Header 2
+Added Member To Class: ClassName=Connector Member=Component P27 Header 2
+Added Member To Class: ClassName=Connector Member=Component P28 Header 2
+Added Member To Class: ClassName=Connector Member=Component P29 Header 2
+Added Member To Class: ClassName=Connector Member=Component P30 Header 2
+Added Member To Class: ClassName=Connector Member=Component R21 
+Added Member To Class: ClassName=Connector Member=Component U1 DRV8825
+Added Member To Class: ClassName=Connector Member=Component U2 DRV8825
+Added Member To Class: ClassName=Connector Member=Component U3 DRV8825
+Added Member To Class: ClassName=Connector Member=Component U4 DRV8825
+Added Room: Name=Connector

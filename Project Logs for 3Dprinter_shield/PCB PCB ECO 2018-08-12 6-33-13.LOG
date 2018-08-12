@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Connector Member=P35
+Removed Member From Class: ClassName=Connector Member=P36
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Added Member To Class: ClassName=Connector Member=Component P33 2204-1021
+Added Room: Name=Connector
+Added Room: Name=Misc

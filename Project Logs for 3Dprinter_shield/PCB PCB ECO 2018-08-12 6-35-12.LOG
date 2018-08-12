@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=X8-1 Pin=U1-A1
+Removed Pin From Net: NetName=Y8-1 Pin=U2-A1
+Removed Pin From Net: NetName=Z8-1 Pin=U3-A1
+Removed Pin From Net: NetName=E8-1 Pin=U4-A1
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=X8-1 Pin=U1-A2
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A2
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A2
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A2
+Added Room: Name=Connector
+Added Room: Name=Misc

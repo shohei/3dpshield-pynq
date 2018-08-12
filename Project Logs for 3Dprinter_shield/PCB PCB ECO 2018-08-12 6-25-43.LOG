@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Misc Member=P32
+Change Component Designator: OldDesignator=P32 NewDesignator=P35
+Change Component Designator: OldDesignator=P33 NewDesignator=P36
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Change Net Name : Old Net Name=NetP32_6 New Net Name=NetP35_6
+Change Net Name : Old Net Name=NetP33_1 New Net Name=NetP36_1
+Added Member To Class: ClassName=Connector Member=Component P12 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Misc Member=Component P35 22041101
+Added Room: Name=Connector
+Added Room: Name=Misc

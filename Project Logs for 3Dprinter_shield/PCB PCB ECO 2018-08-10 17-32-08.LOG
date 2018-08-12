@@ -1,0 +1,208 @@
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+12V Pin=C25-2
+Removed Pin From Net: NetName=RX0 Pin=P1-1
+Removed Pin From Net: NetName=TX0 Pin=P1-2
+Removed Pin From Net: NetName=X-STEP Pin=P1-3
+Removed Pin From Net: NetName=Y-STEP Pin=P1-4
+Removed Pin From Net: NetName=Z-STEP Pin=P1-5
+Removed Pin From Net: NetName=E-STEP Pin=P1-6
+Removed Pin From Net: NetName=X-DIR Pin=P1-7
+Removed Pin From Net: NetName=Y-DIR Pin=P1-8
+Removed Pin From Net: NetName=Z-DIR Pin=P2-1
+Removed Pin From Net: NetName=E-DIR Pin=P2-2
+Removed Pin From Net: NetName=X-MAX Pin=P2-3
+Removed Pin From Net: NetName=Y-MAX Pin=P2-4
+Removed Pin From Net: NetName=Z-MAX Pin=P2-5
+Removed Pin From Net: NetName=X-EN Pin=P3-1
+Removed Pin From Net: NetName=Y-EN Pin=P3-2
+Removed Pin From Net: NetName=Z-EN Pin=P3-3
+Removed Pin From Net: NetName=E-EN Pin=P3-4
+Removed Pin From Net: NetName=HTR0 Pin=P3-5
+Removed Pin From Net: NetName=HTR1 Pin=P3-6
+Removed Pin From Net: NetName=FAN0 Pin=P3-7
+Removed Pin From Net: NetName=FAN1 Pin=P3-8
+Removed Pin From Net: NetName=DISP-ON Pin=P4-1
+Removed Pin From Net: NetName=UV-ON Pin=P4-2
+Removed Pin From Net: NetName=RX1 Pin=P4-7
+Removed Pin From Net: NetName=TX1 Pin=P4-8
+Removed Pin From Net: NetName=TH0-AIN Pin=P5-1
+Removed Pin From Net: NetName=TH1-AIN Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=+3V3 Pin=P6-5
+Removed Pin From Net: NetName=+12V Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-2
+Removed Member From Class: ClassName=Connector Member=C25
+Removed Member From Class: ClassName=Connector Member=P1
+Removed Member From Class: ClassName=Connector Member=P2
+Removed Member From Class: ClassName=Connector Member=P3
+Removed Member From Class: ClassName=Connector Member=P4
+Removed Member From Class: ClassName=Connector Member=P5
+Removed Member From Class: ClassName=Connector Member=P6
+Removed Member From Class: ClassName=Connector Member=P7
+Removed Member From Class: ClassName=Connector Member=P8
+Removed Member From Class: ClassName=Connector Member=P10
+Change Component Footprint: Designator=U6 Old Footprint=RS232C_to_TTL New Footprint=RS232C_TO_TTL_MOLEX
+Change Component Comment : Designator=U6 Old Comment=RS232C to TTL module New Comment=RS232C to TTL converter
+Added Component: Designator=C?(EEE-1HA101UP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(OSTTC02-0162)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(OSTTC02-0162)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(OSTTC02-0162)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(OSTTC02-0162)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(DPAK254P1524X483-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(DPAK254P1524X483-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(DPAK254P1524X483-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-2
+Added Pin To Net: NetName=+12V Pin=P?-1
+Added Pin To Net: NetName=+12V Pin=P?-1
+Added Pin To Net: NetName=+12V Pin=P?-1
+Added Pin To Net: NetName=+12V Pin=P?-1
+Added Pin To Net: NetName=DISP-ON Pin=P?-1
+Added Pin To Net: NetName=RX0 Pin=P?-1
+Added Pin To Net: NetName=TH0-AIN Pin=P?-1
+Added Pin To Net: NetName=X-EN Pin=P?-1
+Added Pin To Net: NetName=Z-DIR Pin=P?-1
+Added Pin To Net: NetName=E-DIR Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=TH1-AIN Pin=P?-2
+Added Pin To Net: NetName=TX0 Pin=P?-2
+Added Pin To Net: NetName=UV-ON Pin=P?-2
+Added Pin To Net: NetName=Y-EN Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=X-MAX Pin=P?-3
+Added Pin To Net: NetName=X-STEP Pin=P?-3
+Added Pin To Net: NetName=Z-EN Pin=P?-3
+Added Pin To Net: NetName=E-EN Pin=P?-4
+Added Pin To Net: NetName=Y-MAX Pin=P?-4
+Added Pin To Net: NetName=Y-STEP Pin=P?-4
+Added Pin To Net: NetName=+3V3 Pin=P?-5
+Added Pin To Net: NetName=HTR0 Pin=P?-5
+Added Pin To Net: NetName=Z-MAX Pin=P?-5
+Added Pin To Net: NetName=Z-STEP Pin=P?-5
+Added Pin To Net: NetName=E-STEP Pin=P?-6
+Added Pin To Net: NetName=HTR1 Pin=P?-6
+Added Pin To Net: NetName=FAN0 Pin=P?-7
+Added Pin To Net: NetName=RX1 Pin=P?-7
+Added Pin To Net: NetName=X-DIR Pin=P?-7
+Added Pin To Net: NetName=FAN1 Pin=P?-8
+Added Pin To Net: NetName=TX1 Pin=P?-8
+Added Pin To Net: NetName=Y-DIR Pin=P?-8
+Added Pin To Net: NetName=HTR1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=FAN0 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=FAN1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=FAN0 Pin=R?-1
+Added Pin To Net: NetName=FAN1 Pin=R?-1
+Added Pin To Net: NetName=HTR1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=Q2-4
+Added Net: Name=NetP?_2
+Added Member To Class: ClassName=Misc Member=Component C? Cap_alumi_electrolytic
+Added Member To Class: ClassName=Connector Member=Component P? OSTTC02-0162
+Added Member To Class: ClassName=Connector Member=Component P? OSTTC02-0162
+Added Member To Class: ClassName=Connector Member=Component P? OSTTC02-0162
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? Header 4
+Added Member To Class: ClassName=Misc Member=Component P? OSTTC02-0162
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Misc Member=Component P? 
+Added Member To Class: ClassName=Connector Member=Component Q2 AOB240L
+Added Member To Class: ClassName=Connector Member=Component Q3 AOB240L
+Added Member To Class: ClassName=Connector Member=Component Q4 AOB240L
+Added Member To Class: ClassName=Connector Member=Component R? 
+Added Member To Class: ClassName=Connector Member=Component R? 
+Added Member To Class: ClassName=Connector Member=Component R? 
+Added Member To Class: ClassName=Power Member=Wire NetP?_2
+Added Room: Name=Connector
+Added Room: Name=Misc

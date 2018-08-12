@@ -1,0 +1,75 @@
+Added Component: Designator=J1(DSUB1.385-2H25A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "19-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "787202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P31(MOLEX_2204_1021)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P32(Phoenix_10pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P33(Phoenix_8pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(MMBF170-SOT95P240X130-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(MMBF170-SOT95P240X130-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(FTDI_USB_Serial)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(RS232C_to_TTL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=+3V3 Pin=P31-1
+Added Pin To Net: NetName=GND Pin=P32-8
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=X8-1 Pin=U1-A1
+Added Pin To Net: NetName=Y8-1 Pin=U2-A1
+Added Pin To Net: NetName=Z8-1 Pin=U3-A1
+Added Pin To Net: NetName=E8-1 Pin=U4-A1
+Added Pin To Net: NetName=RX0 Pin=U5-2
+Added Pin To Net: NetName=TX0 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U6-GND
+Added Pin To Net: NetName=RX1 Pin=U6-RX
+Added Pin To Net: NetName=TX1 Pin=U6-TX
+Added Pin To Net: NetName=+3V3 Pin=U6-VCC
+Change Net Name : Old Net Name=TH-AIN New Net Name=TH0-AIN
+Added Pin To Net: NetName=DISP-ON Pin=P4-1
+Added Pin To Net: NetName=DISP-ON Pin=Q3-1
+Added Net: Name=DISP-ON
+Added Pin To Net: NetName=FAN0 Pin=P3-7
+Added Net: Name=FAN0
+Added Pin To Net: NetName=FAN1 Pin=P3-8
+Added Net: Name=FAN1
+Added Pin To Net: NetName=HTR0 Pin=P3-5
+Added Pin To Net: NetName=HTR0 Pin=Q1-1
+Added Pin To Net: NetName=HTR0 Pin=R21-1
+Added Net: Name=HTR0
+Added Pin To Net: NetName=HTR1 Pin=P3-6
+Added Net: Name=HTR1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q3-3
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetP32_6 Pin=P32-6
+Added Pin To Net: NetName=NetP32_6 Pin=P32-7
+Added Net: Name=NetP32_6
+Added Pin To Net: NetName=NetP33_1 Pin=P33-1
+Added Pin To Net: NetName=NetP33_1 Pin=Q2-3
+Added Net: Name=NetP33_1
+Added Pin To Net: NetName=TH1-AIN Pin=P5-2
+Added Pin To Net: NetName=TH1-AIN Pin=P31-2
+Added Net: Name=TH1-AIN
+Added Pin To Net: NetName=UV-ON Pin=P4-2
+Added Pin To Net: NetName=UV-ON Pin=Q2-1
+Added Net: Name=UV-ON
+Added Class: Name=Misc
+Added Member To Class: ClassName=Connector Member=Component P31 2204-1021
+Added Room: Name=Connector
+Added Room: Name=Misc

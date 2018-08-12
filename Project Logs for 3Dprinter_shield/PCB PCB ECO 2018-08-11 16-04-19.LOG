@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Member From Class: ClassName=Connector Member=Q5
+Removed Member From Class: ClassName=Connector Member=Q6
+Change Component Comment : Designator=U5 Old Comment=FTDI to USB Serial module New Comment=FTDI_USB_Serial
+Change Component Comment : Designator=U6 Old Comment=RS232C to TTL converter New Comment=RS232C_TO_TTL_MOLEX
+Added Pin To Net: NetName=X8-2 Pin=U1-A1
+Added Pin To Net: NetName=Y8-2 Pin=U2-A1
+Added Pin To Net: NetName=Z8-2 Pin=U3-A1
+Added Pin To Net: NetName=E8-2 Pin=U4-A1
+Added Member To Class: ClassName=Connector Member=Component Q2 2SK2232
+Added Member To Class: ClassName=Connector Member=Component Q3 2SK2232
