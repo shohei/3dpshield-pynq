@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RX0 Pin=U5-2
+Removed Pin From Net: NetName=TX0 Pin=U5-3
+Removed Pin From Net: NetName=RX1 Pin=U6-RX
+Removed Pin From Net: NetName=TX1 Pin=U6-TX
+Added Pin To Net: NetName=TX0 Pin=U5-2
+Added Pin To Net: NetName=RX0 Pin=U5-3
+Added Pin To Net: NetName=TX1 Pin=U6-RX
+Added Pin To Net: NetName=RX1 Pin=U6-TX
+Added Room: Name=Connector
+Added Room: Name=Misc
