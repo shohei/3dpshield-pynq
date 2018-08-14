@@ -1,4 +1,4 @@
-# 3d printer shield (rev3)
+# 3d printer shield (rev.3)
 
 
 ![](image/sch1.png)
