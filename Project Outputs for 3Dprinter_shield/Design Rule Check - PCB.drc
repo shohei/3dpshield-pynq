@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\shohei\Dropbox\Altium\3dpshield_KJ\3Dprinter_shield_rev3\PCB.PcbDoc
-Date     : 2018/08/13
-Time     : 8:43:45
+Date     : 2018/08/17
+Time     : 15:06:59
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:02
